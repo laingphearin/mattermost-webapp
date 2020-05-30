@@ -29,8 +29,12 @@ const usersSetTransform = [
     'profilesInTeam',
     'profilesNotInTeam',
     'test',
+<<<<<<< HEAD
     'commit --amend',
     'commit --amend 2'
+=======
+    'commit --amend'
+>>>>>>> 5858f78c7ab090b199173c1619b6168224ff8689
 ];
 
 const teamSetTransform = [
