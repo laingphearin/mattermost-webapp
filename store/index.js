@@ -28,6 +28,8 @@ const usersSetTransform = [
     'profilesNotInChannel',
     'profilesInTeam',
     'profilesNotInTeam',
+    'test',
+    'commit --amend'
 ];
 
 const teamSetTransform = [
